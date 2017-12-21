@@ -1,0 +1,26 @@
+线上服务器开启地址
+
+地址 118.190.157.94
+用户名  kjplus
+密码	linux123
+
+cd /kjplus
+
+ps -ef|grep api
+
+sh startup.sh
+sh shutdown.sh
+
+界面设计网址：
+https://app.zeplin.io/projects
+
+账号：：812542106@qq.com
+
+密码：：abc123456
+
+
+svn 地址：
+yazhih=yzhui1102pas
+svn://121.42.193.25:3699/svnrepos/KJPlusApp
+
+我的手机 2017/11/30 21:26:50
